@@ -1,0 +1,4 @@
+F:\Dropbox\KeyMaker\LicenceKeyValidator\bin\Debug\LicenceKeyValidator.dll
+F:\Dropbox\KeyMaker\LicenceKeyValidator\bin\Debug\LicenceKeyValidator.pdb
+F:\Dropbox\KeyMaker\LicenceKeyValidator\obj\Debug\LicenceKeyValidator.dll
+F:\Dropbox\KeyMaker\LicenceKeyValidator\obj\Debug\LicenceKeyValidator.pdb

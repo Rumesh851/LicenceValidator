@@ -1,0 +1,10 @@
+F:\Dropbox\KeyMaker\LicenceTest\obj\x86\Debug\LicenceTest.csprojResolveAssemblyReference.cache
+F:\Dropbox\KeyMaker\LicenceTest\obj\x86\Debug\LicenceTest.Form1.resources
+F:\Dropbox\KeyMaker\LicenceTest\obj\x86\Debug\LicenceTest.Properties.Resources.resources
+F:\Dropbox\KeyMaker\LicenceTest\obj\x86\Debug\LicenceTest.csproj.GenerateResource.Cache
+F:\Dropbox\KeyMaker\LicenceTest\bin\Debug\LicenceTest.exe
+F:\Dropbox\KeyMaker\LicenceTest\bin\Debug\LicenceTest.pdb
+F:\Dropbox\KeyMaker\LicenceTest\bin\Debug\LicenceKeyValidator.dll
+F:\Dropbox\KeyMaker\LicenceTest\bin\Debug\LicenceKeyValidator.pdb
+F:\Dropbox\KeyMaker\LicenceTest\obj\x86\Debug\LicenceTest.exe
+F:\Dropbox\KeyMaker\LicenceTest\obj\x86\Debug\LicenceTest.pdb
