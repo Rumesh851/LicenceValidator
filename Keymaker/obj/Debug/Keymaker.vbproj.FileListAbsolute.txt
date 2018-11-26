@@ -1,0 +1,8 @@
+F:\Dropbox\KeyMaker\Keymaker\bin\Debug\Keymaker.dll
+F:\Dropbox\KeyMaker\Keymaker\bin\Debug\Keymaker.pdb
+F:\Dropbox\KeyMaker\Keymaker\bin\Debug\Keymaker.xml
+F:\Dropbox\KeyMaker\Keymaker\obj\Debug\Keymaker.Resources.resources
+F:\Dropbox\KeyMaker\Keymaker\obj\Debug\Keymaker.vbproj.GenerateResource.Cache
+F:\Dropbox\KeyMaker\Keymaker\obj\Debug\Keymaker.dll
+F:\Dropbox\KeyMaker\Keymaker\obj\Debug\Keymaker.xml
+F:\Dropbox\KeyMaker\Keymaker\obj\Debug\Keymaker.pdb
